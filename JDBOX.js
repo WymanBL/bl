@@ -2242,7 +2242,6 @@ function nobyda() {
   }
 };
 ReadCookie();
-
 const $ = new Env('会话切换')
 $.KEY_sessions = 'chavy_boxjs_sessions'
 $.KEY_curSessions = 'chavy_boxjs_cur_sessions'
@@ -4582,7 +4581,6 @@ function nobyda() {
   }
 };
 ReadCookie();
-
 const $ = new Env('会话切换')
 $.KEY_sessions = 'chavy_boxjs_sessions'
 $.KEY_curSessions = 'chavy_boxjs_cur_sessions'
